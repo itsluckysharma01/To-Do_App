@@ -164,4 +164,5 @@ This project is open source and available under the MIT License.
 
 ---
 
-**Built with ❤️ using vanilla JavaScript, CSS3, and HTML5**
+**Built with ❤️ using JavaScript, CSS3, and HTML5**
+🤝@itsluckysharma01
